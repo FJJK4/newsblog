@@ -1,0 +1,14 @@
+.cover-img{
+    height: 300px;
+    object-fit: cover;
+
+}
+.cover-card{
+    min-height: 500px;
+}
+
+.post_image{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
